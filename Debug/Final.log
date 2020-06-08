@@ -1,0 +1,30 @@
+﻿Build started 6/25/2019 11:57:57 PM.
+     1>Project "D:\Final\Final\Final.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>d:\final\final\source.cpp(100): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\final\final\source.cpp(101): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\final\final\source.cpp(106): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\final\final\source.cpp(107): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\final\final\source.cpp(112): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\final\final\source.cpp(118): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\final\final\source.cpp(119): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\final\final\source.cpp(139): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\final\final\source.cpp(225): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\final\final\source.cpp(226): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\final\final\source.cpp(230): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\final\final\source.cpp(231): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\final\final\source.cpp(236): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\final\final\source.cpp(242): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\final\final\source.cpp(243): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\final\final\source.cpp(72): warning C4101: 'elem' : unreferenced local variable
+     1>d:\final\final\source.cpp(198): warning C4101: 'elem2' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Final\Debug\Final.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Final\Debug\Final.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Final\Debug\Final.lib" /MACHINE:X86 Debug\Source.obj
+         Final.vcxproj -> D:\Final\Debug\Final.exe
+     1>Done Building Project "D:\Final\Final\Final.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.92
